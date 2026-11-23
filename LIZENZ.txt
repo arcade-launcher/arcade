@@ -1,0 +1,48 @@
+A.R.C.A.D.E. – Nutzungsbedingungen
+Copyright (c) 2026 die Urheber von A.R.C.A.D.E. (https://github.com/arcade-launcher)
+
+1. Hobbyprojekt
+   A.R.C.A.D.E. ist ein privates Hobbyprojekt. Es wird verschenkt, nicht verkauft. Es ist nicht mit Valve
+   (Steam), Epic Games, GOG, Microsoft (Xbox), Amazon, Blizzard (Battle.net), Electronic Arts, Ubisoft oder
+   anderen Anbietern verbunden und wird von ihnen weder unterstützt noch geprüft.
+   Für Epic, GOG, Amazon und Xbox nutzt A.R.C.A.D.E. auch Werkzeuge unabhängiger Projekte. Diese Werkzeuge sind
+   nicht Teil der Pakete; das Programm lädt sie bei Bedarf aus ihren eigenen Quellen nach. Für dein Konto gelten
+   die Regeln des jeweiligen Anbieters.
+
+2. Nutzen
+   Du darfst A.R.C.A.D.E. für private, nicht geschäftliche Zwecke kostenlos herunterladen, installieren und nutzen.
+
+3. Weitergeben
+   Du darfst die vollständigen, unveränderten Installationspakete kostenlos weitergeben. Alle beiliegenden
+   Lizenztexte müssen dabei erhalten bleiben.
+
+4. Verboten
+   - A.R.C.A.D.E. oder Teile davon zu verkaufen oder gegen Geld anzubieten, auch als Teil eines anderen Angebots.
+   - A.R.C.A.D.E. für Geschäfte zu nutzen, zum Beispiel in einer Firma oder für einen bezahlten Dienst.
+   - Veränderte Fassungen weiterzugeben.
+   Für Bestandteile mit eigener Lizenz (siehe Abschnitt 9) gelten die Bedingungen dieser Lizenz.
+
+5. Quelltext
+   Der Quelltext ist nicht öffentlich. Der Herausgeber entscheidet im Einzelfall, ob er ihn für nicht
+   geschäftliche Zwecke unter gesonderten Bedingungen bereitstellt.
+
+6. Keine Gewähr
+   A.R.C.A.D.E. wird kostenlos bereitgestellt. Der Herausgeber übernimmt keine Garantie für die Funktion des
+   Programms oder den Erhalt von Spielständen und Daten. Für Schäden gelten die gesetzlichen Haftungsregeln.
+   Soweit Schenkungsrecht anwendbar ist, gelten insbesondere §§ 521, 523 und 524 BGB.
+   Hilfe, Fehlerbehebungen und neue Fassungen werden nicht zugesagt.
+
+7. Fremde Shops und Konten
+   Für Steam, Epic, GOG, Xbox, Amazon, Battle.net, EA, Ubisoft und alle anderen Anbieter gelten deren eigene
+   Regeln. Wer A.R.C.A.D.E. mit seinen Konten dort nutzt, tut das in eigener Verantwortung. Über Sperren und
+   Einschränkungen entscheidet der jeweilige Anbieter. Für die Haftung des Herausgebers gilt Abschnitt 6.
+
+8. Marken
+   Die genannten Produkt- und Markennamen dienen nur der Bezeichnung der unterstützten Angebote. Die Rechte an den
+   Marken liegen bei ihren jeweiligen Inhabern. Diese Lizenz räumt keine Markenrechte ein.
+
+9. Fremde Teile
+   A.R.C.A.D.E. enthält Software und Schriften anderer Projekte (unter anderem die Schriften Exo 2 und Share Tech
+   Mono, SIL Open Font License 1.1, sowie Rust-Bibliotheken unter MIT-, Apache- und ähnlichen Lizenzen). Die
+   zugehörigen Urhebervermerke und Lizenztexte liegen unter /usr/share/licenses/arcade/ bei. Für diese Teile gilt
+   ihre eigene Lizenz, nicht dieser Text.
