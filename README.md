@@ -31,24 +31,24 @@ auf einem echten System. Auf anderen Systemen kann also noch etwas haken.
 
 Öffne im Ordner mit der heruntergeladenen Datei ein Terminal. Gib den Befehl für dein System ein. Wenn Linux nach
 deinem Passwort fragt, gib dein Linux-Passwort ein. Die genauen Befehle für jede Fassung stehen auch auf ihrer
-Downloadseite. Für Fassung 0.23.4:
+Downloadseite. Für Fassung 0.25.1:
 
 Fedora, Nobara:
 
 ```bash
-sudo dnf install ./arcade-0.23.4-1.fc44.x86_64.rpm
+sudo dnf install ./arcade-0.25.1-1.fc44.x86_64.rpm
 ```
 
 Ubuntu, Linux Mint, Pop!_OS:
 
 ```bash
-sudo apt install ./arcade_0.23.4-1_amd64.deb
+sudo apt install ./arcade_0.25.1-1_amd64.deb
 ```
 
 Arch, CachyOS, EndeavourOS, Manjaro:
 
 ```bash
-sudo pacman -U ./arcade-0.23.4-1-x86_64.pkg.tar.zst
+sudo pacman -U ./arcade-0.25.1-1-x86_64.pkg.tar.zst
 ```
 
 Die Paketverwaltung installiert die Programme, die A.R.C.A.D.E. zum Starten braucht. Weitere Werkzeuge für einzelne
@@ -74,8 +74,8 @@ Anmeldedaten auf deinem Rechner gespeichert.
 
 ### 4. Neue Fassungen
 
-Ist eine neue Fassung da, erscheint eine Leiste „A.R.C.A.D.E. … ist da“. Klicke auf **AKTUALISIEREN**. Falls Linux
-nach deinem Passwort fragt, gib dein Linux-Passwort ein. Klicke anschließend auf **NEU STARTEN**. Kein Terminal nötig.
+Ist eine neue Fassung da, erscheint in der Ansicht **KACHELN** eine Leiste „A.R.C.A.D.E. … ist da“. Klicke auf
+**AKTUALISIEREN**. Falls Linux nach deinem Passwort fragt, gib dein Linux-Passwort ein. Klicke anschließend auf **NEU STARTEN**. Kein Terminal nötig.
 
 ### Gut zu wissen
 
@@ -98,3 +98,8 @@ Fehler kannst du unter **[Issues](../../issues)** melden. Eine Antwort oder Behe
 
 Der Quelltext ist nicht öffentlich. Der Herausgeber entscheidet im Einzelfall, ob er ihn für nicht geschäftliche
 Zwecke unter gesonderten Bedingungen bereitstellt.
+
+## Wie A.R.C.A.D.E. entstanden ist
+
+A.R.C.A.D.E. ist ein Hobbyprojekt. Programmiert wurde es mit Hilfe von KI (Claude von Anthropic). Idee, Planung,
+Aussehen, Tests am echten Rechner und jede Abnahme kommen von einem Menschen.
