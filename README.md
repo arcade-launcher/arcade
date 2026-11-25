@@ -31,24 +31,24 @@ auf einem echten System. Auf anderen Systemen kann also noch etwas haken.
 
 Öffne im Ordner mit der heruntergeladenen Datei ein Terminal. Gib den Befehl für dein System ein. Wenn Linux nach
 deinem Passwort fragt, gib dein Linux-Passwort ein. Die genauen Befehle für jede Fassung stehen auch auf ihrer
-Downloadseite. Für Fassung 0.26.2:
+Downloadseite. Für Fassung 0.26.3:
 
 Fedora, Nobara:
 
 ```bash
-sudo dnf install ./arcade-0.26.2-1.fc44.x86_64.rpm
+sudo dnf install ./arcade-0.26.3-1.fc44.x86_64.rpm
 ```
 
 Ubuntu, Linux Mint, Pop!_OS:
 
 ```bash
-sudo apt install ./arcade_0.26.2-1_amd64.deb
+sudo apt install ./arcade_0.26.3-1_amd64.deb
 ```
 
 Arch, CachyOS, EndeavourOS, Manjaro:
 
 ```bash
-sudo pacman -U ./arcade-0.26.2-1-x86_64.pkg.tar.zst
+sudo pacman -U ./arcade-0.26.3-1-x86_64.pkg.tar.zst
 ```
 
 Die Paketverwaltung installiert die Programme, die A.R.C.A.D.E. zum Starten braucht. Weitere Werkzeuge für einzelne
