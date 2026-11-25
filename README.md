@@ -57,6 +57,10 @@ optional.
 
 ### 3. Erster Start
 
+Beim ersten Start begrüßt dich ein kurzer Assistent. Darin kannst du die Anbieter auswählen und direkt anmelden,
+danach zeigt dir eine kleine Tour die wichtigsten Stellen. Mit **ÜBERSPRINGEN** geht es gleich zur Tour. Alles lässt
+sich später unter **Optionen** nachholen, wie unten beschrieben.
+
 1. Im Startmenü **A.R.C.A.D.E.** öffnen (unter „Spiele“).
 2. Steam: A.R.C.A.D.E. erkennt deine Spiele anhand der Bibliotheksdaten auf deinem Rechner. Das funktioniert auch
    mit Steam als Flatpak.
