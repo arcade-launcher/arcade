@@ -68,7 +68,8 @@ sich später unter **Optionen** nachholen, wie unten beschrieben.
    - Epic, GOG, Amazon: **ANMELDEN** – du meldest dich auf der Seite des Anbieters an.
    - Battle.net, Ubisoft, EA: Klicke auf **EINRICHTEN**, danach auf **ÖFFNEN**. Melde dich im Anbieterprogramm an
      und installiere dort das gewünschte Spiel. A.R.C.A.D.E. zeigt die dort installierten Spiele in der Bibliothek an.
-   - Xbox Game Pass: **ANMELDEN** mit deinem Microsoft-Konto.
+   - Xbox Game Pass: **ANMELDEN** mit deinem Microsoft-Konto. Danach dauert es etwa eine Minute, bis die
+     Game-Pass-Spiele erscheinen.
 4. Wähle ein Spiel aus. Siehst du **INSTALLIEREN**, klicke darauf und warte, bis die Installation abgeschlossen ist.
    Mit **SPIELEN** startest du ein installiertes Spiel. Bei geeigneten Game-Pass-Spielen gibt es außerdem
    **IN DER CLOUD SPIELEN**.
