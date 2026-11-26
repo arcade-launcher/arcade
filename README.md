@@ -2,7 +2,8 @@
 
 **A**lles **r**und um **C**omputerspiele: **A**uswahl, **D**ownload, **E**instellungen – ein Spiele-Launcher für Linux.
 
-Spiele aus Steam, Epic, GOG, Amazon, Battle.net, Ubisoft, EA und Xbox Game Pass in einer Bibliothek. Du kannst Spiele
+Spiele aus Steam, Epic, GOG, Amazon, Battle.net, Ubisoft, EA und Xbox Game Pass sowie Minecraft-Modpacks aus dem
+Prism Launcher in einer Bibliothek. Du kannst Spiele
 starten, die Grafik für jedes Spiel einstellen und nach kostenlosen Angeboten schauen. Hinweise aus ProtonDB helfen
 dir einzuschätzen, ob ein Spiel unter Linux läuft.
 
@@ -31,24 +32,24 @@ auf einem echten System. Auf anderen Systemen kann also noch etwas haken.
 
 Öffne im Ordner mit der heruntergeladenen Datei ein Terminal. Gib den Befehl für dein System ein. Wenn Linux nach
 deinem Passwort fragt, gib dein Linux-Passwort ein. Die genauen Befehle für jede Fassung stehen auch auf ihrer
-Downloadseite. Für Fassung 0.26.3:
+Downloadseite. Für Fassung 0.27.0:
 
 Fedora, Nobara:
 
 ```bash
-sudo dnf install ./arcade-0.26.3-1.fc44.x86_64.rpm
+sudo dnf install ./arcade-0.27.0-1.fc44.x86_64.rpm
 ```
 
 Ubuntu, Linux Mint, Pop!_OS:
 
 ```bash
-sudo apt install ./arcade_0.26.3-1_amd64.deb
+sudo apt install ./arcade_0.27.0-1_amd64.deb
 ```
 
 Arch, CachyOS, EndeavourOS, Manjaro:
 
 ```bash
-sudo pacman -U ./arcade-0.26.3-1-x86_64.pkg.tar.zst
+sudo pacman -U ./arcade-0.27.0-1-x86_64.pkg.tar.zst
 ```
 
 Die Paketverwaltung installiert die Programme, die A.R.C.A.D.E. zum Starten braucht. Weitere Werkzeuge für einzelne
@@ -70,6 +71,8 @@ sich später unter **Optionen** nachholen, wie unten beschrieben.
      und installiere dort das gewünschte Spiel. A.R.C.A.D.E. zeigt die dort installierten Spiele in der Bibliothek an.
    - Xbox Game Pass: **ANMELDEN** mit deinem Microsoft-Konto. Danach dauert es etwa eine Minute, bis die
      Game-Pass-Spiele erscheinen.
+   - Minecraft: Ist der Prism Launcher installiert, erscheinen deine Modpacks von selbst. Mods und Updates richtest
+     du weiter in Prism ein.
 4. Wähle ein Spiel aus. Siehst du **INSTALLIEREN**, klicke darauf und warte, bis die Installation abgeschlossen ist.
    Mit **SPIELEN** startest du ein installiertes Spiel. Bei geeigneten Game-Pass-Spielen gibt es außerdem
    **IN DER CLOUD SPIELEN**.
